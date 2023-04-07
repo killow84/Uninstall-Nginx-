@@ -1,4 +1,4 @@
-# Uninstall-Nginx-
+# Uninstall-Nginx
 
 1.Uninstalling NGINX in Debian Systems
 $ sudo systemctl status nginx.service 
